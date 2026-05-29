@@ -1,0 +1,17 @@
+*.sif
+*.egg-info
+*egg
+*ipynb_checkpoints*
+*.pyc
+*__pycache__*
+*build*
+venv
+results*
+.DS_Store
+*.csv
+*.asv
+*.png
+*.json
+old
+temp
+.venv
